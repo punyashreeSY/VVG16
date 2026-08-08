@@ -380,7 +380,7 @@ This journey prepares you for:
 
 # 👩‍💻 Created By
 
-## Geethanjali M
+## Punyashree S Y
 
 🎓 Artificial Intelligence Student  
 💡 Exploring Data Science | Machine Learning | AI
